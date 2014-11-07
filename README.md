@@ -5,7 +5,7 @@ type: lecture
 resources: 0
 ---
 
-## Bootstrap Grid System ~ 30min
+## Bootstrap Grid System ~ 20min
 
 This lecture will discuss the classes used in Bootstraps grid system and how to use them.
 
